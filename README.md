@@ -7,5 +7,5 @@ In this data project I focused on exploratory data analysis stock prices, and se
 * JPMorgan Chase
 * Morgan Stanley
 * Wells Fargo
-* 
+
 Please click on the file to see my code and results.
